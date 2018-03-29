@@ -11,6 +11,5 @@ The databases similar to the applications themselves are segmented based on the 
  Multiple servers can be setup to host cloned databases, in which case Apprenda will be controlling the placement of clones based on the CPU and memory utilization.​
 
 
-
  ### Installation
- Detailed documentation for Trident can be found on [Read the Docs](http://dbdevtestplugin-docs.readthedocs.io/). 
+ Detailed documentation for ACP extension for DB cloning with NetApp SnapCenter can be found on [Read the Docs](http://dbdevtestplugin-docs.readthedocs.io/). 
